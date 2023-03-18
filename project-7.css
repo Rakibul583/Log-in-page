@@ -1,0 +1,28 @@
+.section{
+    text-align: center;
+}
+input{
+    border-color: rgb(97, 18, 201);
+    margin: 5px;
+    border-radius: 20px;
+    width: 250px;
+    height: 30px;
+}
+.name1{
+color: limegreen;
+}
+.name2{
+    position: absolute;
+    position: relative;
+    left: 60px;
+}
+button{
+    border-color: rgb(97, 18, 201);
+    margin: 5px;
+    width: 120px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.name3{
+    text-decoration: none;
+}
